@@ -1,5 +1,5 @@
-### Práctica Swift KeepCoding 2023. 
-# Profesor: Daniel Illescas Romero. 
+# Práctica Swift KeepCoding 2023. 
+### Profesor: Daniel Illescas Romero. 
 
 [Diagrama Conceptual](./assets/Diagram1.PNG)  
 
